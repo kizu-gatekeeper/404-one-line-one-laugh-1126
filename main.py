@@ -1,4 +1,7 @@
-"""Entry for make.fun: One Line, One Laugh."""
+"""Entry for make.fun: One Line, One Laugh.
+
+Therapy advice taken literally, at 3 a.m., into a fridge door.
+"""
 import os
 
 LINE = "My therapist said to confront my problems head-on, so I walked straight into the fridge door at 3 a.m. looking for answers and cake."
